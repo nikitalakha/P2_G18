@@ -16,6 +16,14 @@ Compute two holistic health indicators:
                 1. Nutrition Score: Reflecting dietary balance and nutrient status
                 2. Mantle Score: Indicating immune strength and protective energy
 
-## Methodology
+## Features
+Tongue Segmentation
+White Coating 
+Papillae
+Crack 
+Jaggedness 
+Health Scoring
+
+
 
 
